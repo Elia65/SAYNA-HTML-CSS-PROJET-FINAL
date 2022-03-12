@@ -1,0 +1,168 @@
+/*header*/
+
+header {
+    background-color: #d35649;
+    color: #ffff;
+}
+
+.menu a {
+    color: #ffff;
+    text-decoration: none;
+    text-align: center;
+}
+
+.menu {
+    color: #ffff;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+
+/*footer*/
+
+footer {
+    background-color: #000;
+    color: #ffff;
+}
+
+.plus1 a {
+    color: #ffff;
+    text-decoration: none;
+    float: right;
+    padding: 80px 10px;
+}
+
+.plus2 a {
+    color: #ffff;
+    text-decoration: none;
+    float: left;
+    padding: 80px 10px;
+    margin-left: 25px;
+}
+
+.bold {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.primary-color {
+    color: #d35649;
+}
+
+.primary-color>b:hover {
+    text-decoration: underline;
+}
+
+.btn {
+    color: #ffff;
+    margin-left: -4px;
+    margin-top: -1px;
+    background-color: #808080;
+}
+
+.input {
+    background-color: #000;
+    border-width: 1px;
+    padding: 5px 8px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.copyright {
+    background-color: rgb(80, 78, 78);
+    color: #808080;
+}
+
+.right {
+    float: right;
+}
+
+.reseaux-sociaux :hover {
+    color: #98a5a5;
+}
+
+
+/*Index*/
+
+.back-1 {
+    text-align: center;
+    padding: 100px;
+}
+
+.back-1 h2 {
+    color: #ffff;
+}
+
+.input1 {
+    background-color: #ffff;
+    border-width: 1px;
+    padding: 5px 400px 5px 2px;
+}
+
+.btn1 {
+    color: #ffff;
+    margin-left: -4px;
+    margin-top: -1px;
+    background-color: #d35649;
+}
+
+.btn2 {
+    color: #000;
+    margin-left: -4px;
+    margin-top: -1px;
+    background-color: rgba(236, 238, 238, 0.534);
+}
+
+.back-2 {
+    background-color: rgba(236, 238, 238, 0.534);
+    text-align: center;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.article1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.article1 h4 {
+    color: #d35649;
+}
+
+.img img {
+    border-radius: 20rem;
+    margin-top: 10%;
+}
+
+.text {
+    color: #ffff;
+    padding: 50px 20px;
+}
+
+
+/*search*/
+
+strong {
+    color: rgb(0, 183, 255);
+}
+
+.btn3 button {
+    color: #ffff;
+    background-color: rgb(3, 94, 191);
+}
+
+.btn3 button :hover {
+    background-color: blue;
+}
+
+.icon i {
+    color: rgb(0, 183, 255);
+}
+
+.d {
+    color: #1f1f1f;
+    color: #444;
+    color: #575a89;
+}
